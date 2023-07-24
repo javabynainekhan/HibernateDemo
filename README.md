@@ -1,2 +1,0 @@
-# HibernateDemo
-Hibernate Coding concepts
